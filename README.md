@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minddymind&show_icons=true&locale=en&layout=compact" alt="minddymind" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minddymind&show_icons=true&locale=en" alt="minddymind" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minddymind&" alt="minddymind" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> 
