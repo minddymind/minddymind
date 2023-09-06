@@ -1,5 +1,5 @@
 <h2 align="center">Hello world 🌎</h2>
-<h3 align="center">I am smile. I am a computer science student at Chiang Mai University 🎓</h3>
+<h3 align="center">I am a computer science student at Chiang Mai University 🎓</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
 <h3 align="center">Languages and Tools:</h3>
