@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smile</h1>
 <h3 align="center">A computer science student at Chiang Mai University 🎓</h3>
-<img align="left" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
