@@ -8,7 +8,7 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
-- 🌱 I’m currently learning **Robot Framework**  
+- 🌱 I’m currently learning **Robot Framework, Unity**  
 - 📫 Reach me at **chananchid.works@gmail.com**
 
 ---
@@ -66,12 +66,6 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minddymind&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">  
-  <img src="https://visitcount.itsvg.in/api?id=minddymind&icon=0&color=10" alt="Profile Visit Count" />
 </p>
 
 ---
