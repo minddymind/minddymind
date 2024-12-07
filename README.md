@@ -67,9 +67,3 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=minddymind&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
-
----
-
-<p align="center">
-🌟 *Proudly crafted using GPRM* 🌟
-</p>
