@@ -11,19 +11,8 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 - 🌱 I’m currently learning **Robot Framework, Unity**  
 - 📫 Reach me at **chananchid.works@gmail.com**
 
----
 
-<h2 align="left">🌟 Connect with Me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/chananchida-prathum" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/minddymind/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-</p>
-
----
+--
 
 ## 💻 My Tech Stack
 
