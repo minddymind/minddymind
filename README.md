@@ -6,14 +6,14 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
-
 - 🌱 I’m currently learning **Robot Framework, Unity**  
 - 📫 Reach me at **chananchid.works@gmail.com**
 
 ---
 
 ## 💻 My Tech Stack
+
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv">
 
 ### **Programming Languages:**
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
