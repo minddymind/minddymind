@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 🌏, I'm Chananchida Prathum</h1>
+<h1 align="center">Hello World 🌏, I am Chananchida Prathum</h1>
 <h3 align="center">A passionate Computer Science student focused on software development and quality assurance. 🚀</h3>
 <p align="center">
 I thrive on solving problems, enhancing software quality, and continuously learning to grow as a professional in the tech industry.  
