@@ -6,7 +6,7 @@ I thrive on solving problems, enhancing software quality, and continuously learn
 
 ---
 
-- 🌱 I’m currently learning **Vuejs, Unity, Robot Framwork**  
+- 🌱 I’m currently learning **Flutter**  
 - 📫 Reach me at **chananchid.works@gmail.com**
 
 ---
